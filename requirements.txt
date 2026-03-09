@@ -1,0 +1,4 @@
+python-dotenv~=1.2.1
+streamlit~=1.53.0
+protobuf~=6.33.4
+plotly~=6.5.2
